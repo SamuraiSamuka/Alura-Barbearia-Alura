@@ -1,0 +1,42 @@
+.produtos {
+    width: 940px;
+    margin: 40px auto;
+}
+
+.produtos li {
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+
+    width: 30%;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+
+    border: rgb(0, 0, 0) 2px solid;
+
+    border-radius: 10px;
+}
+
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produto-descricao {
+    font-size: 18px;
+}
+
+.produto-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.produtos li:hover {
+    border: orange 1px solid;
+}
+
+.produtos li:active {
+    border-color: green;
+}
