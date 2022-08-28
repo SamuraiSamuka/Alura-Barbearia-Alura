@@ -1,4 +1,5 @@
-# Alura-Barbearia-Alura
+# Barbearia Alura
 
-<img src="https://samuraisamuka.github.io/Alura-Barbearia-Alura/Midia/logo.png"></img>
-Nesse projeto desenvolvi meus conhecimentos em HTML e CSS.
+Projeto que desenvolvi nas aulas de HTML da plataforma Alura.
+
+https://samuraisamuka.github.io/Alura-Barbearia-Alura/index.html
